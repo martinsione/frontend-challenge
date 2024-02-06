@@ -1,15 +1,17 @@
 # BuildWithin Frontend Developer Challenge
 
-API for the challenge: https://randomuser.me
+## Signup Form
 
-## Requirements
 
-- [ ] Fetch 100 rows of data using the API.
-- [ ] Display the data in a table format. (picture, email, firstName, lastName)
-- [ ] Alternate the background color of the rows.
-- [ ] Sort by clicking on the column header.
-- [ ] Add a search bar to filter the data by first name, last name, or email.
-- [ ] Add the ability to delete a row.
-- [ ] Add the ability to add a row.
-- [ ] Add the ability to edit a row.
-- [ ] Add pagination to the table.
+- [ ] An email and a password input
+- [ ] Email must be valid
+- [ ] Password must include at least one special character, one number and be at least 8 characters
+- [ ] Validation and error handling
+    1. Client-side validations
+    2. Server side errors
+
+# Evaluation
+
+1. Understanding of core HTML idioms and properties
+2. Understanding and fluidity of core React idioms
+3. Code fluency - quality, style, structure.
