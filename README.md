@@ -7,8 +7,8 @@
 - [ ] Email must be valid
 - [ ] Password must include at least one special character, one number and be at least 8 characters
 - [ ] Validation and error handling
-    1. Client-side validations
-    2. Server side errors
+    - [ ] Client-side validations
+    - [ ] Server side errors
 
 # Evaluation
 
